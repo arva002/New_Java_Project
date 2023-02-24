@@ -1,7 +1,7 @@
 // Java Program to Print the Pyramid pattern
 
 // Main class
-public class GFG {
+public class triangle {
 
 	// Main driver method
 	public static void main(String[] args)
